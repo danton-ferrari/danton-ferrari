@@ -33,7 +33,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Portifóleo - Code](https://github.com/danton-ferrari/portifolio01)
+- [Portfolio - Code](https://github.com/danton-ferrari/portifolio01)
 - [Javascript - Senac](https://github.com/danton-ferrari/DantonSenac)
 
 <!-- GIF -->
