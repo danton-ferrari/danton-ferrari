@@ -15,7 +15,7 @@
 
   - 🌱 I’m currently studying Systems Analysis and Development at Uninter.
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with backend development.
+  - 🔭 I am looking for my first job opportunity. My dream is to one day work with Web development.
 </p>
 
 <!-- Dropdown -->
